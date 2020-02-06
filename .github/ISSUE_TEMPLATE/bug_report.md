@@ -24,15 +24,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - OS: [e.g. DeepIn 15.11 64bit/Win7 Ultimate 64bit]
+ - Compiler: [e.g. QT 5.6.2 GCC 6.3.0/VS2013 update 5]
+ - Version: [e.g. 4.0.2.200108]
 
 **Additional context**
 Add any other context about the problem here.
