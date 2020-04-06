@@ -66,3 +66,10 @@
 /lib/Windows/VC12/libcserialport/libcserialport/*
 /lib/Windows/VC12/libcserialport/libcserialport/*.user
 /Demo/Comm/*.suo
+/Demo/Comm/.vs/Comm/v16/ipch/AutoPCH/105a054ef83284e4/SERIALPORT.ipch
+/Demo/Comm/.vs/Comm/v16/ipch/AutoPCH/6bd746b99c79eb91/SERIALPORTBASE.ipch
+/Demo/Comm/.vs/Comm/v16/ipch/AutoPCH/fdd7dc23626f63f2/SERIALPORTINFO.ipch
+/Demo/Comm/.vs/Comm/v16/ipch/e2f193eb9c82375b.ipch
+/Demo/Comm/.vs/Comm/v16/Browse.VC.opendb
+/Demo/Comm/.vs/Comm/v16/.suo
+/Demo/Comm/.vs/Comm/v16/Browse.VC.db

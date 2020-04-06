@@ -194,7 +194,7 @@ BOOL CCommDlg::OnInitDialog()
 	
 	OnBnClickedButtonOpenClose();
 
-	m_Send.SetWindowText(_T("http://blog.csdn.net/itas109"));
+	//m_Send.SetWindowText(_T("http://blog.csdn.net/itas109"));
 
 	m_SerialPort.readReady.connect(this, &CCommDlg::OnReceive);
 	
